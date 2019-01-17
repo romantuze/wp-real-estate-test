@@ -1,0 +1,13 @@
+.city-image {
+	float: left;
+	margin-right: 30px;
+}
+
+.page-city-image {
+	margin: 0 0 30px 0;
+	text-align: center;
+}
+
+.entry-meta {
+	margin-bottom: 20px;
+}
